@@ -12,12 +12,6 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-<<<<<<< HEAD
-hello atguigu! hello git! master test
-
-=======
-hello atguigu! hello git!
-hello atguigu! hello git! hot-fox test
->>>>>>> hot-fox
+hello atguigu! hello git! master
 print("hello word")
 
